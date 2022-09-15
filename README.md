@@ -1,17 +1,19 @@
-# Nome do projeto
+# Leaf Bem Estar
 Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Arthur Santos Araujo
+* Filipe Ribeiro Maciel Chang	
+* Gabriel Lucas Pereira das Dores
+* Heitor Meinicke Ribeiro
+* Lucas Silva Tanure
+* Marcos Vinicius Nunes Dos Santos
+* Murilo Silva de Almeida
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Alexandre Teixeira
 
 ## Instruções de utilização
 
