@@ -93,7 +93,8 @@ Desta forma, estabeleceu-se como público-alvo desta solução os homens e as mu
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a coleta de informação dos usuários em um trabalho de discussão feita pelos membros da equipe a partir da observação dos usuários e por meio de um formulário. Os dados levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
+
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -101,31 +102,14 @@ Desta forma, estabeleceu-se como público-alvo desta solução os homens e as mu
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+As pessoas apresentadas ajudaram no processo de entendimento do problema segue seus perfis abaixo
 
-
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
-
+**Pedro Augusto**
+![Persona1](images/persona1.jpg)
+**Isabella Gomes**
+![Persona2](images/persona2.jpg)
+**Takuma Sato**
+![Persona3](images/persona3.jpg)
 
 ## Histórias de Usuários
 
@@ -133,19 +117,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Pedro Augusto       |Diminuir as dores pelo corpo, principalmente a das costas| Para viver sem incômodos com seu corpo e poder ficar mais confortável |
+|Pedro Augusto       |Ter mais autoestima                 |Para conseguir viver melhor consigo mesmo e com outras pessoas |
+|Isabella Gomes      |Melhorar alimentação                |Para  ter mais disposição durante o dia |
+|Isabella Gomes      |Ter mais apetite                    |Para poder se alimentar mais e se alimentar melhor|
+|Takuma Sato         |Ter uma noite de sono melhor        |Para evitar cansaço durante o dia.      |
+|Pedro Augusto       |Ganhar massa muscular               |Se sentir esteticamente melhor com seu corpo|
+|Takuma Sato         |Ter hábitos mais saudáveis durante o dia|Diminuir o peso.                    |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
