@@ -1,21 +1,25 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+LEAF BEM ESTAR
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+SISTEMAS DE INFORMAÇÃO 
 
 ## Participantes
+- Scrum Master: Alexandre Teixeira
+- Product Owner: Puc Minas
+> `Equipe de Desenvolvimento`
+- Arthur Santos Araujo
+- Filipe Ribeiro Maciel Chang
+- Gabriel Lucas Pereira das Dores
+- Heitor Meinicke Ribeiro
+- Lucas Silva Tanure
+- Marcos Vinicius Nunes Dos Santos
+- Murilo Silva de Almeida Silva
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
 
 # Estrutura do Documento
 
@@ -56,71 +60,36 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Como foi abordado, esse projeto busca melhorar a saúde física e mental dos leitores, através de um conteúdo sobre  bem estar e alimentação saudável já que, segundo estudos houve um aumento na taxa  de sobrepeso da população brasileira durante a pandemia.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+“O objetivo geral deste trabalho é o desenvolvimento de um sistema que engloba adolescentes e jovens adultos que desejam trazer mais saúde para sua rotina , oferecendo um ambiente descontraído e intuitivo, que permita ao usuário conhecer novas técnicas direcionadas ao bem estar físico e psicológico”
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos ressaltar:
+- Fornecer ao usuário informações sobre maus hábitos alimentares e divulgar receitas que incentivem a boa alimentação;
+- Permitir ao usuário a interação com o site, oferecendo o poder de escolha do conteúdo que deseja consumir;
+- Entregar ao consumidor recomendações de aplicativos que podem o auxiliar usuários interessados em melhorar a saúde;
+
+
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Com a eclosão da pandemia causada pelo COVID-19 (coronavírus) , muitas pessoas foram forçadas a passar a maior parte do tempo em suas casas. O que contribuiu para a má alimentação. 
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Em uma pesquisa Diet & Health Under , realizada em 30 países mostrou que , os brasileiros foram os que mais ganharam peso durante a pandemia , cerca de 52% dos brasileiros relataram ter ganho peso, na mesma pesquisa os brasileiros ganharam 6,5 quilos em média.
+
+Diante disso, é de extrema importância ter bons hábitos de alimentação tendo em vista que  boa alimentação pode trazer muitos benefícios para a saúde como a melhora de condicionamento físico, um sistema imunológico mais forte, melhor disposição, entre outros.
+
+
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Apesar de todos poderem se beneficiar de uma atenção maior à saúde do corpo em geral, o foco desse projeto é o grupo de jovens que buscam adotar hábitos saudáveis mesmo não tendo tempo disponível ou conhecimento sobre os tópicos.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Desta forma, estabeleceu-se como público-alvo desta solução os homens e as mulheres entre 16 e 30 anos que buscam melhoras no seu estilo de vida. Sejam elas por se encontrar em estado de sedentarismo, com saúde mental afetada pelo isolamento, pessoas sobrecarregadas e consequentemente sem tempo, ou até mesmo pessoas com desconhecimento de informações de como cuidar do próprio bem estar.
+
  
 # Especificações do Projeto
 
