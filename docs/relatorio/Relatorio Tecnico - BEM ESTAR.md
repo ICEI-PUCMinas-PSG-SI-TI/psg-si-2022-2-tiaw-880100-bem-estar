@@ -177,13 +177,21 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 ## User Flow
 
 **Fluxo de Usuário**
-![Userflow](images/userflow1.jpg)
+![Userflow](images/USERFLOWMANUAL-1.png)
 
 
 ## Wireframes
 
 **Tela Inicial**
-![Tela Inicial](images/telainicial.jpg)
+![Tela Inicial](images/WIREFRAMETELAINICIAL-1.png)
+**Pagina de Login**
+![Pagina de Login](images/WIREFRAMELOGIN-1.png)
+**Pagina de Dicas**
+![Pagina de Dicas](images/WIREFRAMEDICAS-1.png)
+**Pagina de Apps**
+![Pagina de Apps](images/WIREFRAMEAPPS-1.png)
+**Pagina de Alimentação**
+![Pagina de Alimentação](images/WIREFRAMEALIMENTAÇÃO-1.png)
 
 
 
@@ -212,7 +220,7 @@ Product Owner: Puc Minas
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
