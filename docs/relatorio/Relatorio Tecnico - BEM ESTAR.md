@@ -99,11 +99,11 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 As pessoas apresentadas ajudaram no processo de entendimento do problema segue seus perfis abaixo
 
 **Pedro Augusto**
-![Persona1](images/persona1.jpg)
+![Persona1](images/pedroaugusto.jpg)
 **Isabella Gomes**
-![Persona2](images/persona2.jpg)
+![Persona2](images/isabellagomes.jpg)
 **Takuma Sato**
-![Persona3](images/persona3.jpg)
+![Persona3](images/takumasato.jpg)
 
 ## Histórias de Usuários
 
