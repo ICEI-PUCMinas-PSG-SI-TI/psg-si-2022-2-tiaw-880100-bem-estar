@@ -14,7 +14,7 @@ SISTEMAS DE INFORMAÇÃO
 - Heitor Meinicke Ribeiro
 - Lucas Silva Tanure
 - Marcos Vinicius Nunes Dos Santos
-- Murilo Silva de Almeida Silva
+- Murilo Silva de Almeida
 
 
 
@@ -177,20 +177,44 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 ## User Flow
 
 **Fluxo de Usuário**
+O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o link: https://www.figma.com/proto/fccCBvLXAMqycXLoAtuhGW/Untitled?node-id=1%3A311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A311
+
+
 ![Userflow](images/USERFLOWMANUAL-1.png)
+Figura X
 
 
 ## Wireframes
 
 **Tela Inicial**
+A tela de home-page mostra notícias de destaque a partir da API utilizada pelo sistema. 
+
+Com base na estrutura padrão, o bloco de Conteúdo traz as notícias em destaque (imagem, título, data, fonte e resumo, ícone de compartilhamento). O bloco da Barra Lateral traz três elementos distintos:
+
+Componente de pesquisa que permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário;
+
+Componente de notícias preferidas que leva o usuário para a tela de Notícias Preferidas;
+
+Componente de lista de categorias que dá acesso às páginas de cada uma das seções disponibilizadas.
 ![Tela Inicial](images/WIREFRAMETELAINICIAL-1.png)
 **Pagina de Login**
+A tela de login permite que o usuário crie sua conta ou acesse, para ter acesso aos conteúdos vistos e favoritados anteriormente
 ![Pagina de Login](images/WIREFRAMELOGIN-1.png)
+
 **Pagina de Dicas**
+A tela com tópico dicas é redirecionada após clicar em Dicas que é apresentada seja na tela inicial ou em outras telas como a de Alimentação e de Aplicativos. Nela o usuário poderá acessar dicas para maior produtividade, dicas sobre exercícios físicos, dicas terapêuticas, entre outras funções apresentadas na aba.
+
+
 ![Pagina de Dicas](images/WIREFRAMEDICAS-1.png)
 **Pagina de Apps**
+A tela com tópico aplicativos é redirecionada após clicar em aplicativos que é apresentada seja na tela inicial ou em outras telas como a de Alimentação e de Dicas. Nela o usuário poderá acessar dicas para maior produtividade, dicas sobre exercícios físicos, dicas terapêuticas, entre outras funções apresentadas na aba.
+
+
 ![Pagina de Apps](images/WIREFRAMEAPPS-1.png)
 **Pagina de Alimentação**
+A tela com tópico alimentação é redirecionada após clicar em Alimentação que é apresentada seja na tela inicial ou em outras telas como a de Dicas e de Aplicativos. Nela o usuário poderá acessar receitas, pratos diários, opções vegetarianas, entre outras funções apresentadas na aba.
+
+
 ![Pagina de Alimentação](images/WIREFRAMEALIMENTAÇÃO-1.png)
 
 
@@ -228,6 +252,7 @@ Product Owner: Puc Minas
 |Gerenciamento do projeto | Trello |  https://trello.com/b/yZERCd1N/bem-estar | 
 |Repositório de código | GitHub | https://github.com/orgs/ICEI-PUCMinas-PSG-SI-TI/teams/bem-estar | 
 |Comunicação da Equipe| Whatsapp |  grupo privado | 
+|Userflow|Figma|https://www.figma.com/proto/fccCBvLXAMqycXLoAtuhGW/Untitled?node-id=1%3A311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A311|
 
 - O GitHub foi escolhido por livre e espontânea pressão, mas de fato é o melhor gestor de versões de código
 - O WhatsApp é a ferramenta de comunicação mais usada pelos brasileiros não tem porque não usar
