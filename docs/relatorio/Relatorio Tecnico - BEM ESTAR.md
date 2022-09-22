@@ -9,7 +9,6 @@ SISTEMAS DE INFORMAÇÃO
 
 ## Participantes
 - Arthur Santos Araujo
-- Filipe Ribeiro Maciel Chang
 - Gabriel Lucas Pereira das Dores
 - Heitor Meinicke Ribeiro
 - Lucas Silva Tanure
@@ -233,7 +232,6 @@ Product Owner: Puc Minas
 
 `Equipe de Desenvolvimento:`
 - Arthur Santos Araujo
-- Filipe Ribeiro Maciel Chang
 - Gabriel Lucas Pereira das Dores
 - Heitor Meinicke Ribeiro
 - Lucas Silva Tanure
