@@ -9,7 +9,6 @@ Portanto, é notório que existam medidas que atenuem o problema gerado, onde no
 ## Alunos integrantes da equipe
 
 * Arthur Santos Araujo
-* Filipe Ribeiro Maciel Chang	
 * Gabriel Lucas Pereira das Dores
 * Heitor Meinicke Ribeiro
 * Lucas Silva Tanure
